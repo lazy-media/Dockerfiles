@@ -1,3 +1,7 @@
+# TAKE THIS README WITH A GRAIN OF SALT. I HAD IT QUICKLY GENERATED WITH AI. I NEED TO VERIFY EVERYTHING IS CORRECT. IF YOU NOTICE SOMETHING WRONG, PLEASE LET ME KNOW.
+
+---
+
 # 🐍 n8n Enhanced with Python Toolkit
 
 This Docker image extends the official [n8n](https://n8n.io) workflow automation platform with a comprehensive Python environment for advanced data processing, AI integration, and multimedia operations.
