@@ -32,7 +32,7 @@ This Docker image extends the official [n8n](https://n8n.io) workflow automation
 - [ ] Docker Engine 20.10+
 - [ ] Minimum 2GB RAM allocated to Docker
 - [ ] 1vCPU minimum (2+ recommended for AI workflows)
-- [ ] Standard N8N Docker ENV Variables
+- [ ] Know to use standard N8N Docker ENV Variables
 
 </details>
 
