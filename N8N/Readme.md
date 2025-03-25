@@ -58,7 +58,7 @@ docker run -d \
   -e N8N_BASIC_AUTH_ACTIVE=true \
   -e N8N_BASIC_AUTH_USER=admin \
   -e N8N_BASIC_AUTH_PASSWORD=securepassword \
-  -v n8n_data:/home/node/.n8n \
+  -v n8n_data:/home/node \
   -v /etc/localtime:/etc/localtime:ro \
   --restart unless-stopped \
   --memory 2g \
