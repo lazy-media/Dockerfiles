@@ -33,6 +33,7 @@ This Docker image extends the official [n8n](https://n8n.io) workflow automation
 - [ ] Minimum 2GB RAM allocated to Docker
 - [ ] 1vCPU minimum (2+ recommended for AI workflows)
 - [ ] Know to use standard N8N Docker ENV Variables
+    - [N8N Documentation for Environment Variables](https://docs.n8n.io/hosting/configuration/environment-variables/binary-data/)
 
 </details>
 
