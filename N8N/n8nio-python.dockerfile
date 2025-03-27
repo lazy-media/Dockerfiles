@@ -27,7 +27,9 @@ RUN apk add --no-cache \
     # Audio processing libraries
     portaudio-dev alsa-lib-dev libsndfile-dev \
     # Security certificates and compression
-    ca-certificates xz
+    ca-certificates xz \
+    # Additional Dependencies
+    curl
 
 ######################################################
 # STEP 4: Create a safe space for Python packages
